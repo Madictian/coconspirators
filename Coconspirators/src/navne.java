@@ -3,5 +3,9 @@ public class navne {
 
         String bille = "Fredrik Bille";
         System.out.print(bille);
+
+        String ljk = "Lasse J. Kongsdal";
+        System.out.println(ljk);
+
     }
 }
