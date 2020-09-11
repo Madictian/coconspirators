@@ -2,7 +2,7 @@ public class navne {
     public static void main(String[] args) {
 
         String bille = "Fredrik Bille";
-        System.out.print(bille);
+        System.out.println(bille);
 
         String ljk = "Lasse J. Kongsdal";
         System.out.println(ljk);
