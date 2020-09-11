@@ -1,3 +1,4 @@
 # coconspirators
-Lets go boys.
-Project oprettet og sammensvogne inviteret. [Bille]
+lets go boys
+
+Hello this is new!!!
