@@ -7,5 +7,8 @@ public class navne {
         String ljk = "Lasse J. Kongsdal";
         System.out.println(ljk);
 
+        String deniz = "Deniz Yandim";
+        System.out.println(deniz);
+
     }
 }
