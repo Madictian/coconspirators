@@ -1,3 +1,3 @@
 # coconspirators
-lets go boys
-Project oprettet og sammensvogne inviteret
+Lets go boys.
+Project oprettet og sammensvogne inviteret. [Bille]
