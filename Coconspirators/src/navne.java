@@ -10,5 +10,8 @@ public class navne {
         String deniz = "Deniz Yandim";
         System.out.println(deniz);
 
+        String simon = "Simon Stentoft Heegaard";
+        System.out.println(simon);
+
     }
 }
