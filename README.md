@@ -2,5 +2,4 @@
 Lets go boys. 
 
 
-Project oprettet og sammensvogne inviteret. [Bille] /
-test
+Project oprettet og sammensvogne inviteret. [Bille]
